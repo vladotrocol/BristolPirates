@@ -1,0 +1,22 @@
+.container{
+	margin: auto;
+  	position: absolute;
+  	top: 0; left: 0; bottom: 0; right: 0;
+  	width: 50%;
+  	height:50%;
+  	border:2px solid #ccc;
+	outline-color:#ddd;	
+	outline-style:double;
+	background-color: #eee;
+}
+
+#TrackPad{
+	position: absolute;
+	left: 50%;
+}
+
+#out{
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
